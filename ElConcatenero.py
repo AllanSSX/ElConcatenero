@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # ElConcatenero v2.0.4
 # Author: Diogo N Silva

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # Author: Diogo N. Silva
 # Version: 1.3.0
 # Last update: 30/07/12
